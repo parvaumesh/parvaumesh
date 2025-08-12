@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋I'm PARVA UMESH
+
+🚀 A passionate Data Science enthusiast from India
+
+🌱 Exploring the world of data, one model at a time.
+
+📫 How to reach me: parvaumesh8811@gmail.com
 
 <!--
 **parvaumesh/parvaumesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
