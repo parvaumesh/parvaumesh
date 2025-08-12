@@ -7,7 +7,7 @@
 📫 How to reach me: parvaumesh8811@gmail.com
 
 ## Connect with me:
-[LinkedIn](https://linkedin.com/in/parva-umesh) [GitHub](https://github.com/parvaumesh)
+@linkdin (https://linkedin.com/in/parva-umesh) [GitHub](https://github.com/parvaumesh)
 <!--
 **parvaumesh/parvaumesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
