@@ -10,7 +10,7 @@ Passionate about turning data into actionable insights and deploying real-world 
 - 🔭 Currently working on **ML model deployment projects**  
 - 🌱 Learning **Cloud Computing, MLOps & Advanced NLP**  
 - ⚡ Fun fact: I love automating boring tasks and experimenting with AI tools  
-- 📫 How to reach me: **[LinkedIn]([https://linkedin.com/in/parva-umesh)** | **[GitHub](https://github.com/parvaumesh)**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/parva-umesh)** | **[GitHub](https://github.com/parvaumesh)**
 
 ---
 
@@ -46,16 +46,10 @@ Passionate about turning data into actionable insights and deploying real-world 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parva-umesh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-parvaumesh)
