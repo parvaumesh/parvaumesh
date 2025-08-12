@@ -10,7 +10,7 @@ Passionate about turning data into actionable insights and deploying real-world 
 - 🔭 Currently working on **ML model deployment projects**  
 - 🌱 Learning **Cloud Computing, MLOps & Advanced NLP**  
 - ⚡ Fun fact: I love automating boring tasks and experimenting with AI tools  
-- 📫 How to reach me:[Mail](parvaumesh8811@gmail.com) **[LinkedIn](https://linkedin.com/in/parva-umesh)** | **[GitHub](https://github.com/parvaumesh)** 
+- 📫 How to reach me:[Mail](parvaumesh8811@gmail.com) |**[LinkedIn](https://linkedin.com/in/parva-umesh)** | **[GitHub](https://github.com/parvaumesh)** 
 
 ---
 
