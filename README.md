@@ -10,7 +10,7 @@ Passionate about turning data into actionable insights and deploying real-world 
 - 🔭 Currently working on **ML model deployment projects**  
 - 🌱 Learning **Cloud Computing, MLOps & Advanced NLP**  
 - ⚡ Fun fact: I love automating boring tasks and experimenting with AI tools  
-- 📫 How to reach me:[Mail](parvaumesh8811@gmail.com) | **[LinkedIn](https://linkedin.com/in/parva-umesh)** | **[GitHub](https://github.com/parvaumesh)** 
+- 📫 How to reach me:[Mail](mailto:parvaumesh8811@gmail.com) | **[LinkedIn](https://linkedin.com/in/parva-umesh)** | **[GitHub](https://github.com/parvaumesh)** 
 
 ---
 
@@ -50,7 +50,7 @@ Passionate about turning data into actionable insights and deploying real-world 
 ---
 
 ## 🤝 Connect with Me
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvaumesh8811@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parva-umesh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-parvaumesh)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MRUmeshParva)
