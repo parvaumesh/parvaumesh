@@ -12,7 +12,7 @@ Passionate about turning data into actionable insights and deploying real-world 
 - ⚡ Fun fact: I love automating boring tasks and experimenting with AI tools  
 - 📫 How to reach me: (parvaumesh8811@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parva-umesh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/parvaumesh])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parvaumesh)
 
 ---
 
